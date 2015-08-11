@@ -1,4 +1,4 @@
-package ninja.cero-t.eureka-example;
+package ninja.cero.examples;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
